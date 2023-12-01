@@ -25,13 +25,6 @@ namespace Poiis3
         {
             Exercises=new List<Exercise>();
             Name = name;
-            //Date = date;
-
-
         }
-
-        
-
-
     }
 }
